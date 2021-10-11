@@ -4,7 +4,7 @@
 * MiPad2 (16GB or 64GB)
 * Windows 10 ISO file (or Ghost Spectre Windows 10 SuperLite ISO)
 * Windows 10 Device Drivers (included in this repo)
-* [Unetbootin](https://unetbootin.github.io)
+* [Rufus](https://rufus.ie/en/)
 * Double Driver (Google it, or download from this repo)
 * 7Zip and WinZip
 * 16GB+ USB, USB Hub, USB Mouse and Keyboard
@@ -22,7 +22,7 @@ Option 3: Download NTLite and repackage Win 10 yourself
 # Step 2 - Put Windows 10 on a USB Pendrive
 If you choose option 1 from Step 1 above, you can just copy all the files to the USB Pendrive.
 
-Otherwise, for an ISO file, use Unetbootin to create a USB installer Pendrive for you.
+Otherwise, for an ISO file, use Rufus to create a USB installer Pendrive for you.
 
 # Step 3 - Put the Double Driver to the USB Pendrive
 If you haven't already, download Double Driver from this repo, extract the zip file and put the "Double Driver" folder on your USB Pendrive
